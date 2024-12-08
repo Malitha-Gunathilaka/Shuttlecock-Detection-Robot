@@ -34,8 +34,6 @@ The **Shuttlecock Collecting Rover** is an autonomous robot designed to patrol a
 ---
 
 
----
-
 ## How It Works
 1. **Patrolling**: The rover moves in a predefined pattern (e.g., forward for 1m, then turns).
 2. **Detection**:
@@ -84,9 +82,6 @@ You can find the full code in the `src` directory:
 
 ---
 
-
-
----
 
 ## Future Improvements
 - Add a camera for better object detection.
