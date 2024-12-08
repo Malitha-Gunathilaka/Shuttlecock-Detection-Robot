@@ -11,7 +11,7 @@ Servo scanServo;
 // Sensor Pins
 #define TRIG_PIN 9
 #define ECHO_PIN 10
-#define IR_PIN 11
+#define IR_PIN 7
 
 // Movement Functions
 void moveForward() {
