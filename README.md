@@ -55,7 +55,7 @@ The Arduino code enables:
 - Shuttlecock collection with a servo-operated mechanism.
 
 You can find the full code in the `src` directory:
-- [`shuttlecock_collecting_rover.ino`](src/shuttlecock_collecting_rover.ino)
+- [`shuttlecock_collecting_rover.ino`](src/Shuttlecock Collecting Rover.ino)
 
 ---
 
